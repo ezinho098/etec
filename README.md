@@ -22,7 +22,7 @@ echo`Hello World`;
 ### C#
 ```c#
 
-stativ void Main()
+startio void Main()
 {
 Console.Write("Hello world");
 Console.ReadKey();
