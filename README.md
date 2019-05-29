@@ -16,12 +16,12 @@ Etec Dr. Carolino da Motta e Silva
 ### php
 ```
 <?php
-echo`Hello World`;
+echo'Hello World';
 ?>
 ...
 
-### C#
-```c#
+### c#
+```
 
 startio void Main()
 {
@@ -30,7 +30,7 @@ Console.ReadKey();
 }
 ...
 
-## Js
+### Js
 ```js
 
 <script>
